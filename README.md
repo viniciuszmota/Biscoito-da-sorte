@@ -25,9 +25,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-A página de Título: Jogo da adivinhação foi realizada no Stage 5 do módulo Explorer da Rocketseat. Iniciamos integração da página com o JavaScript.
+A página de Título: Biscoito da Sorte foi realizada no Stage 5 do módulo Explorer da Rocketseat. Iniciamos integração da página com o JavaScript.
 
-- [Acesse o projeto finalizado, online](https://viniciuszmota.github.io/Jogo-da-Adivinha-o/)
+- [Acesse o projeto finalizado, online](https://viniciuszmota.github.io/Biscoito-da-sorte/)
 
 ---
 
